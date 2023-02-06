@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
 @feehotero 
-peguimasid
-/
-peguimasid
-Public
-Fork your own copy of peguimasid/peguimasid
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-peguimasid/README.md
-@peguimasid
-peguimasid Update README.md
-Latest commit b729f46 2 days ago
- History
- 1 contributor
-64 lines (47 sloc)  8.42 KB
 
 Hi 👋 My name is Guilhermo
 ==========================
