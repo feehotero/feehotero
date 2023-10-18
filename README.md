@@ -4,7 +4,7 @@ Hi 👋 My name is Felipe
 Programer 
 -----------------------------
 
-I'm a 18 year old computer science student. I love to code and solve problems that requires a lot of logical.
+I'm a 19 year old computer science student. I love to code and solve problems that requires a lot of logical.
 
 I'm a student at Universidade Católica de Santos.
 
