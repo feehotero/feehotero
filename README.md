@@ -4,7 +4,7 @@ Hi 👋 My name is Felipe
 Programer 
 -----------------------------
 
-I'm a 19 year old computer science student. I love to code and solve problems that requires a lot of logical.
+I'm a 20 year old computer science student. I love to code and solve problems that requires a lot of logical.
 
 I'm a student at Universidade Católica de Santos.
 
@@ -18,7 +18,7 @@ I'm a student at Universidade Católica de Santos.
 ### Skills
 
 <p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 </p>
 
